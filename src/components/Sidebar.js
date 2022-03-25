@@ -1,6 +1,6 @@
 import { render } from "@testing-library/react";
 import { Layout, Menu, Dropdown, Avatar } from "antd";
-import "./css/sidebar.css";
+import "../css/sidebar.css";
 import "antd/dist/antd.css";
 import MenuIcon from "@mui/icons-material/Menu";
 import PersonIcon from "@mui/icons-material/Person";
